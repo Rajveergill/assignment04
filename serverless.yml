@@ -1,7 +1,7 @@
 service: assignment04
 
 custom:
-  bucket: rajveerdropbox
+  bucket: rajveerdropbox07
 
 provider:
   name: aws
